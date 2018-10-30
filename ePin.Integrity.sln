@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28124.53
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ePin.Integrity", "ePin.Integrity.csproj", "{1053A4A9-106A-478D-9884-D7EDA29F680C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1053A4A9-106A-478D-9884-D7EDA29F680C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1053A4A9-106A-478D-9884-D7EDA29F680C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1053A4A9-106A-478D-9884-D7EDA29F680C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1053A4A9-106A-478D-9884-D7EDA29F680C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00BFFE0E-CEBB-4DAF-B031-549F5C333F07}
+	EndGlobalSection
+EndGlobal
